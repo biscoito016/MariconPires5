@@ -97,7 +97,7 @@ var elementorFrontendConfig = {
         "e_scroll_snap": true
     },
     "urls": {
-        "assets": "https:\/\/nikolasferreira.com.br\/wp-content\/plugins\/elementor\/assets\/"
+        "assets": "https:\/\/biscoito016.github.io/MariconPires5\/wp-content\/plugins\/elementor\/assets\/"
     },
     "swiperClass": "swiper-container",
     "settings": {
